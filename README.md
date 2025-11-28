@@ -3,7 +3,7 @@
 ## How to run
 
 ### Clone repo
-git clone https://github.com/duncan2834/markdown_table_parser.git
+git clone https://github.com/duncan2834/file_search_testing.git
 
 ### Install dependency
 pip install -r requirements.txt
@@ -18,3 +18,4 @@ Upload file with display_name to get/create File Search Store
 
 ### Ask
 Asking about files in your specific File Search Store. Get results with answer and grounding metadata to track where the information comes from.
+
